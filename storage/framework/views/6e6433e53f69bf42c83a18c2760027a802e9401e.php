@@ -1,0 +1,1 @@
+<footer class="footer text-right"> <?php echo e(trans('words.copyright')); ?> © <?php echo e(date('Y')); ?> <a href="http://www.kiwitv.in" target="_blank">kiwitv.in</a>. <?php echo e(trans('words.all_rights')); ?>. </footer><?php /**PATH C:\xampp\htdocs\kiwitv_updated\resources\views/admin/copyright.blade.php ENDPATH**/ ?>
